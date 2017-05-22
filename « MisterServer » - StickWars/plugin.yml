@@ -1,0 +1,8 @@
+name: StickWars
+author: DennisHellwig
+version: 1.0
+main: de.mserver.stickwars.Main
+
+commands:
+   swadmin:
+   changemap:
